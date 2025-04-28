@@ -23,3 +23,4 @@ def test_coucou():
     # Function tests if the output returns 'hello'
     output = 'hello'
     assert output == 'hello'
+    
